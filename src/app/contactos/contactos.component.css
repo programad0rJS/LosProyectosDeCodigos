@@ -1,0 +1,20 @@
+.code{
+    text-transform: lowercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    color: blueviolet;
+}
+.center{
+    text-align: center;
+}
+.form-label{
+     color: blue;
+     cursor: pointer;
+}
+.form-label:hover{
+    border-bottom: crimson 1px solid;
+}
+label{
+    color: blue;
+}

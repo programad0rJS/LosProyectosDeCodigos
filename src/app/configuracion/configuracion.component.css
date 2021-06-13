@@ -1,0 +1,7 @@
+.Color{
+    color: darkviolet;
+    cursor: pointer;
+}
+.Color:hover{
+    border: forestgreen 1px solid;
+}
